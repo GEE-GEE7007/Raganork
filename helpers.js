@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *RAGANORK*:  ```" + msg + "```"
+    return "✅ *𝐍𝐔𝐑𝐈𝐓𝐀𝐇*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *RAGANORK*:  ```" + msg + "```"
+    return "🛑 *𝐍𝐔𝐑𝐈𝐓𝐀𝐇*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *RAGANORK*:  ```" + msg + "```"
+    return "⏺️ *𝐍𝐔𝐑𝐈𝐓𝐀𝐇*:  ```" + msg + "```"
 }
 
 
