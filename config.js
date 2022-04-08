@@ -56,7 +56,7 @@ module.exports = {
     created_by_souravkl11: process.env.ALL_IMG2 === undefined ? 'https://www.linkpicture.com/q/rgnk.jpg' : process.env.ALL_IMG2,
     take_key: process.env.TAKE_KEY === undefined ? '' : process.env.TAKE_KEY,
     find_key: process.env.FIND_KEY === undefined ? '' : process.env.FIND_KEY,
-    SKDL: process.env.DIALOGUE === undefined ? '❤️‍🔥 𝗞𝗜𝗟𝗟𝗔𝗗𝗜𝗦𝗠 𝗡𝗘𝗩𝗘𝗥 𝗘𝗡𝗗𝗦 ❤️‍🔥' : process.env.DIALOGUE,
+    SKDL: process.env.DIALOGUE === undefined ? '❤️‍🔥 *̣̥☆·͙̥❄‧̩̥࿌ིྀ྇˟͙☃️˟͙࿌ིྀ྇‧̩̥❄·͙̥̣☆*̣̥  ❤️‍🔥' : process.env.DIALOGUE,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
     SOURAV: process.env.SK_BLOCK === undefined ? 'false' : process.env.SK_BLOCK,
